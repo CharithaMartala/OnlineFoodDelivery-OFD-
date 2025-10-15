@@ -1,0 +1,629 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2438777\\source\\repos\\UserLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\AppData\\Local\\Temp\\5tp5w0ci..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\exception\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:exception\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\model\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:model\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251014110855_ee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251014110855_ee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\repository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:repository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\data\\userlogincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:data\\userlogincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251014100211_cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251014100211_cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\AppData\\Local\\Temp\\quq12goe..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\auth\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:auth\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\exception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:exception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\aspects\\exceptionhandlerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:aspects\\exceptionhandlerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\migrations\\20251007101151_ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:migrations\\20251007101151_ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\migrations\\20251008065738_t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:migrations\\20251008065738_t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserLoginContext_de5c7d1c_a3b5_42ec_aaea_58136d8b13ef/True/SqlTable/dbo.User1.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\userlogin.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:userlogin.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251006044540_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251006044540_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20250930050256_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250930050256_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20250930051548_st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250930051548_st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20250930051056_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250930051056_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\migrations\\20251007103219_sai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:migrations\\20251007103219_sai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\migrations\\20251007095130_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:migrations\\20251007095130_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\migrations\\20251007122532_charitha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:migrations\\20251007122532_charitha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\migrations\\20251008042122_ttyu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:migrations\\20251008042122_ttyu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\migrations\\20251009121740_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:migrations\\20251009121740_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\migrations\\20251009113817_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:migrations\\20251009113817_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\migrations\\20251009103845_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:migrations\\20251009103845_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|c:\\users\\2438777\\source\\repos\\userlogin\\migrations\\20251009103049_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FB5D0-2279-4611-93ED-5DC1FBFD1626}|UserLogin.csproj|solutionrelative:migrations\\20251009103049_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\AppData\\Local\\Temp\\quq12goe..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\AppData\\Local\\Temp\\quq12goe..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\AppData\\Local\\Temp\\5tp5w0ci..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2438777\\AppData\\Local\\Temp\\5tp5w0ci..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery7.sql ",
+              "DocumentMoniker": "C:\\Users\\2438777\\AppData\\Local\\Temp\\5tp5w0ci..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\5tp5w0ci..sql",
+              "ToolTip": "SQLQuery7.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-15T06:53:05.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:47:43.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:42:05.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:10:01.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Model\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Model\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Model\\LoginRequest.cs",
+              "RelativeToolTip": "Model\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T10:24:35.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Service\\AuthService.cs",
+              "RelativeToolTip": "Service\\AuthService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:53:03.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Model\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "Model\\ForgotPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Model\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "Model\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:04:55.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Exception\\UserAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "Exception\\UserAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Exception\\UserAlreadyExistsException.cs",
+              "RelativeToolTip": "Exception\\UserAlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:45:28.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251014110855_ee.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251014110855_ee.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251014110855_ee.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251014110855_ee.cs",
+              "RelativeToolTip": "Migrations\\20251014110855_ee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:08:55.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Service\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Service\\IAuthService.cs",
+              "RelativeToolTip": "Service\\IAuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:49:25.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Repository\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Repository\\IAuthRepository.cs",
+              "RelativeToolTip": "Repository\\IAuthRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:51:33.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserLoginContext.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Data\\UserLoginContext.cs",
+              "RelativeDocumentMoniker": "Data\\UserLoginContext.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Data\\UserLoginContext.cs",
+              "RelativeToolTip": "Data\\UserLoginContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:05:35.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251014100211_cc.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251014100211_cc.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251014100211_cc.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251014100211_cc.cs",
+              "RelativeToolTip": "Migrations\\20251014100211_cc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:02:11.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\2438777\\AppData\\Local\\Temp\\quq12goe..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\quq12goe..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-14T06:23:49.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "Auth\\TokenService.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Auth\\TokenService.cs",
+              "RelativeToolTip": "Auth\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T04:01:38.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T09:33:08.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:02:33.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Auth\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Auth\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Auth\\ITokenService.cs",
+              "RelativeToolTip": "Auth\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:31:27.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Exception\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exception\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Exception\\UserNotFoundException.cs",
+              "RelativeToolTip": "Exception\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:15:06.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExceptionHandlerAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Aspects\\ExceptionHandlerAttribute.cs",
+              "RelativeDocumentMoniker": "Aspects\\ExceptionHandlerAttribute.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Aspects\\ExceptionHandlerAttribute.cs",
+              "RelativeToolTip": "Aspects\\ExceptionHandlerAttribute.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:49:31.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20251009121740_d.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251009121740_d.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251009121740_d.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251009121740_d.cs",
+              "RelativeToolTip": "Migrations\\20251009121740_d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:17:40.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251007101151_ch.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251007101151_ch.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251007101151_ch.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251007101151_ch.cs",
+              "RelativeToolTip": "Migrations\\20251007101151_ch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T10:11:52.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20251009113817_b.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251009113817_b.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251009113817_b.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251009113817_b.cs",
+              "RelativeToolTip": "Migrations\\20251009113817_b.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:38:18.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20251009103845_a.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251009103845_a.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251009103845_a.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251009103845_a.cs",
+              "RelativeToolTip": "Migrations\\20251009103845_a.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T10:38:45.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251009103049_s.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251009103049_s.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251009103049_s.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251009103049_s.cs",
+              "RelativeToolTip": "Migrations\\20251009103049_s.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T10:30:49.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251008065738_t.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251008065738_t.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251008065738_t.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251008065738_t.cs",
+              "RelativeToolTip": "Migrations\\20251008065738_t.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:57:39.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20251008042122_ttyu.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251008042122_ttyu.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251008042122_ttyu.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251008042122_ttyu.cs",
+              "RelativeToolTip": "Migrations\\20251008042122_ttyu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:21:22.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.User1 [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserLoginContext_de5c7d1c_a3b5_42ec_aaea_58136d8b13ef/True/SqlTable/dbo.User1.sql",
+              "ToolTip": "dbo.User1 [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-07T12:52:45.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251007122532_charitha.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251007122532_charitha.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251007122532_charitha.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251007122532_charitha.cs",
+              "RelativeToolTip": "Migrations\\20251007122532_charitha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:25:32.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20251007103219_sai.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251007103219_sai.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251007103219_sai.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251007103219_sai.cs",
+              "RelativeToolTip": "Migrations\\20251007103219_sai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T10:32:19.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20251007095130_c.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251007095130_c.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251007095130_c.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251007095130_c.cs",
+              "RelativeToolTip": "Migrations\\20251007095130_c.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:51:31.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserLogin.http",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\UserLogin.http",
+              "RelativeDocumentMoniker": "UserLogin.http",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\UserLogin.http",
+              "RelativeToolTip": "UserLogin.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-06T09:54:26.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20251006044540_c.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251006044540_c.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251006044540_c.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20251006044540_c.cs",
+              "RelativeToolTip": "Migrations\\20251006044540_c.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:45:41.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250930051548_st.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20250930051548_st.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250930051548_st.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20250930051548_st.cs",
+              "RelativeToolTip": "Migrations\\20250930051548_st.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:15:49.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250930051056_s.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20250930051056_s.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250930051056_s.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20250930051056_s.cs",
+              "RelativeToolTip": "Migrations\\20250930051056_s.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:10:56.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250930050256_s.cs",
+              "DocumentMoniker": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20250930050256_s.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250930050256_s.cs",
+              "ToolTip": "C:\\Users\\2438777\\source\\repos\\UserLogin\\Migrations\\20250930050256_s.cs",
+              "RelativeToolTip": "Migrations\\20250930050256_s.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:02:56.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
