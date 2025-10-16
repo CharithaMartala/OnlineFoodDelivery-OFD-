@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "UserLogin.Controllers.AuthController",
+    "ContainingType": "OnlineFoodDelivery.Controllers.AuthController",
     "Method": "GetAllUsers",
     "RelativePath": "api/Auth",
     "HttpMethod": "GET",
@@ -10,7 +10,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserLogin.Controllers.AuthController",
+    "ContainingType": "OnlineFoodDelivery.Controllers.AuthController",
     "Method": "DeleteUserById",
     "RelativePath": "api/Auth/{id}",
     "HttpMethod": "DELETE",
@@ -26,7 +26,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserLogin.Controllers.AuthController",
+    "ContainingType": "OnlineFoodDelivery.Controllers.AuthController",
     "Method": "UpdateUserDetailsByEmail",
     "RelativePath": "api/Auth/by-email/{email}",
     "HttpMethod": "PUT",
@@ -40,14 +40,14 @@
       },
       {
         "Name": "user",
-        "Type": "UserLogin.Model.User",
+        "Type": "OnlineFoodDelivery.Model.User",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserLogin.Controllers.AuthController",
+    "ContainingType": "OnlineFoodDelivery.Controllers.AuthController",
     "Method": "UpdateUserDetails",
     "RelativePath": "api/Auth/by-id/{id}",
     "HttpMethod": "PUT",
@@ -61,14 +61,14 @@
       },
       {
         "Name": "user",
-        "Type": "UserLogin.Model.User",
+        "Type": "OnlineFoodDelivery.Model.User",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserLogin.Controllers.AuthController",
+    "ContainingType": "OnlineFoodDelivery.Controllers.AuthController",
     "Method": "GetUserByEmail",
     "RelativePath": "api/Auth/email",
     "HttpMethod": "GET",
@@ -84,7 +84,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserLogin.Controllers.AuthController",
+    "ContainingType": "OnlineFoodDelivery.Controllers.AuthController",
     "Method": "DeleteUserByEmail",
     "RelativePath": "api/Auth/email",
     "HttpMethod": "DELETE",
@@ -93,14 +93,14 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "UserLogin.Model.User",
+        "Type": "OnlineFoodDelivery.Model.User",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserLogin.Controllers.AuthController",
+    "ContainingType": "OnlineFoodDelivery.Controllers.AuthController",
     "Method": "ForgotPassword",
     "RelativePath": "api/Auth/forgot-password",
     "HttpMethod": "POST",
@@ -116,7 +116,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserLogin.Controllers.AuthController",
+    "ContainingType": "OnlineFoodDelivery.Controllers.AuthController",
     "Method": "GetUserById",
     "RelativePath": "api/Auth/Id",
     "HttpMethod": "GET",
@@ -132,7 +132,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserLogin.Controllers.AuthController",
+    "ContainingType": "OnlineFoodDelivery.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",
     "HttpMethod": "POST",
@@ -141,14 +141,14 @@
     "Parameters": [
       {
         "Name": "usLog",
-        "Type": "UserLogin.Model.LoginRequest",
+        "Type": "OnlineFoodDelivery.Model.LoginRequest",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserLogin.Controllers.AuthController",
+    "ContainingType": "OnlineFoodDelivery.Controllers.AuthController",
     "Method": "Register",
     "RelativePath": "api/Auth/register",
     "HttpMethod": "POST",
@@ -157,7 +157,7 @@
     "Parameters": [
       {
         "Name": "us",
-        "Type": "UserLogin.Model.User",
+        "Type": "OnlineFoodDelivery.Model.User",
         "IsRequired": true
       }
     ],

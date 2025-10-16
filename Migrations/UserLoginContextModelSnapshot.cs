@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using UserLogin.Data;
+using OnlineFoodDelivery.Data;
 
 #nullable disable
 
-namespace UserLogin.Migrations
+namespace OnlineFoodDelivery.Migrations
 {
     [DbContext(typeof(UserLoginContext))]
     partial class UserLoginContextModelSnapshot : ModelSnapshot

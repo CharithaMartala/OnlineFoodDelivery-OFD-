@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using UserLogin.Data;
+using OnlineFoodDelivery.Data;
 
 #nullable disable
 
-namespace UserLogin.Migrations
+namespace OnlineFoodDelivery.Migrations
 {
     [DbContext(typeof(UserLoginContext))]
     [Migration("20251014110855_ee")]

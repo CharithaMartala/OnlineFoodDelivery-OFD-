@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using UserLogin.Model;
+using OnlineFoodDelivery.Model;
 
-namespace UserLogin.Data
+namespace OnlineFoodDelivery.Data
 {
     public class UserLoginContext : DbContext
     {
@@ -14,7 +14,7 @@ namespace UserLogin.Data
         {
         }
 
-        public DbSet<UserLogin.Model.User> User1 { get; set; } = default!;
+        public DbSet<OnlineFoodDelivery.Model.User> User1 { get; set; } = default!;
         
     }
 }

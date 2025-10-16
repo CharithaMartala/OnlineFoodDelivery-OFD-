@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLogin", "UserLogin.csproj", "{825FB5D0-2279-4611-93ED-5DC1FBFD1626}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineFoodDelivery", "OnlineFoodDelivery.csproj", "{825FB5D0-2279-4611-93ED-5DC1FBFD1626}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
