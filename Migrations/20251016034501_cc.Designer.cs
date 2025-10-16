@@ -12,7 +12,7 @@ using UserLogin.Data;
 namespace UserLogin.Migrations
 {
     [DbContext(typeof(UserLoginContext))]
-    [Migration("20251014100211_cc")]
+    [Migration("20251016034501_cc")]
     partial class cc
     {
         /// <inheritdoc />
@@ -59,12 +59,6 @@ namespace UserLogin.Migrations
 
                     b.Property<long>("PhoneNumber")
                         .HasColumnType("bigint");
-
-                    b.Property<string>("ResetToken")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime?>("ResetTokenExpiry")
-                        .HasColumnType("datetime2");
 
                     b.Property<string>("Role")
                         .IsRequired()
