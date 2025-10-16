@@ -1,6 +1,6 @@
-﻿using UserLogin.Model;
+﻿using OnlineFoodDelivery.Model;
 
-namespace UserLogin.Auth
+namespace OnlineFoodDelivery.Auth
 {
     public interface ITokenService
     {

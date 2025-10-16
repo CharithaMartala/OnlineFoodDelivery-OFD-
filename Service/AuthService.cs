@@ -1,9 +1,9 @@
-﻿using UserLogin.Auth;
-using UserLogin.Exception;
-using UserLogin.Model;
-using UserLogin.Repository;
+﻿using OnlineFoodDelivery.Auth;
+using OnlineFoodDelivery.Exception;
+using OnlineFoodDelivery.Model;
+using OnlineFoodDelivery.Repository;
 
-namespace UserLogin.Service
+namespace OnlineFoodDelivery.Service
 {
     public class AuthService : IAuthService
     {

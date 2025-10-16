@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace UserLogin.Migrations
+namespace OnlineFoodDelivery.Migrations
 {
     /// <inheritdoc />
     public partial class cc : Migration

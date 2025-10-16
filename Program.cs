@@ -3,10 +3,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using UserLogin.Auth;
-using UserLogin.Data;
-using UserLogin.Repository;
-using UserLogin.Service;
+using OnlineFoodDelivery.Auth;
+using OnlineFoodDelivery.Data;
+using OnlineFoodDelivery.Repository;
+using OnlineFoodDelivery.Service;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<UserLoginContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("UserLoginContext") ?? throw new InvalidOperationException("Connection string 'UserLoginContext' not found.")));

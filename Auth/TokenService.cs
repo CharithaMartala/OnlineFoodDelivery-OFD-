@@ -2,9 +2,9 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using UserLogin.Model;
+using OnlineFoodDelivery.Model;
 
-namespace UserLogin.Auth
+namespace OnlineFoodDelivery.Auth
 {
     //public class XmlService : ITokenService
     //{
