@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using UserLogin.Model;
+using OnlineFoodDelivery.Model;
 
-namespace UserLogin.Data
+namespace OnlineFoodDelivery.Data
 {
     public class UserLoginContext : DbContext
     {
@@ -14,7 +14,45 @@ namespace UserLogin.Data
         {
         }
 
-        public DbSet<UserLogin.Model.User> User1 { get; set; } = default!;
-        
+        public DbSet<User> User1 { get; set; } 
+        public DbSet<Restaurant> Restaurants { get; set; }
+        public DbSet<Location> Locations { get; set; }
+        public DbSet<MenuCategory> MenuCategories { get; set; }
+        public DbSet<MenuItem> MenuItems { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Restaurant>()
+                .HasOne(r => r.Owner)
+                .WithMany()
+                .HasForeignKey(r => r.Id)
+                .OnDelete(DeleteBehavior.Restrict);
+            modelBuilder.Entity<Restaurant>()
+                .HasOne(r => r.Location)
+                .WithMany(l => l.Restaurants)
+                .HasForeignKey(r => r.LocationId)
+                .OnDelete(DeleteBehavior.Restrict);
+            // Cascade delete: Restaurant → MenuCategory
+            modelBuilder.Entity<MenuCategory>()
+                .HasOne(c => c.Restaurant)
+                .WithMany(r => r.MenuCategories)
+                .HasForeignKey(c => c.RestaurantId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            // Cascade delete: MenuCategory → MenuItem
+            modelBuilder.Entity<MenuItem>()
+                .HasOne(i => i.Category)
+                .WithMany(c => c.MenuItems)
+                .HasForeignKey(i => i.CategoryId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<MenuItem>()
+                .Property(m => m.ItemPrice)
+                .HasColumnType("decimal(10,2)");
+
+            modelBuilder.Entity<Restaurant>()
+                .Property(r => r.DeliveryCharges)
+                .HasColumnType("decimal(10,2)");
+        }
     }
-}
+} 

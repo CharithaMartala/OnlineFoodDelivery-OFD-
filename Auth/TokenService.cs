@@ -2,9 +2,9 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using UserLogin.Model;
+using OnlineFoodDelivery.Model;
 
-namespace UserLogin.Auth
+namespace OnlineFoodDelivery.Auth
 {
     //public class XmlService : ITokenService
     //{
@@ -33,12 +33,12 @@ namespace UserLogin.Auth
             {
 
             var claims = new[]
-{
-    new Claim(ClaimTypes.NameIdentifier, us.Id.ToString()),
-    new Claim(ClaimTypes.Name, us.Username),
-    new Claim(ClaimTypes.Email, us.Email),
-    new Claim(ClaimTypes.Role, us.Role)
-};
+            {
+                new Claim("Id", us.Id.ToString()),
+                new Claim(ClaimTypes.Name, us.Username),
+                new Claim(ClaimTypes.Email, us.Email),
+                new Claim(ClaimTypes.Role, us.Role)
+            };
 
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));

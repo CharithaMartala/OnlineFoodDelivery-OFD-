@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace UserLogin.Model
+namespace OnlineFoodDelivery.Model
 {
     public class User
     {

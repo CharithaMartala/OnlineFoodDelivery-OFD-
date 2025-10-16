@@ -1,4 +1,4 @@
-﻿namespace UserLogin.Model
+﻿namespace OnlineFoodDelivery.Model
 {
     public class LoginRequest
     {

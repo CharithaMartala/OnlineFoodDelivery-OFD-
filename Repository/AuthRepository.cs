@@ -1,10 +1,10 @@
 ﻿using System;
-using UserLogin.Model;
+using OnlineFoodDelivery.Model;
 using Microsoft.EntityFrameworkCore;
-using UserLogin.Data;
+using OnlineFoodDelivery.Data;
 
 
-namespace UserLogin.Repository
+namespace OnlineFoodDelivery.Repository
 {
     public class AuthRepository : IAuthRepository
     {

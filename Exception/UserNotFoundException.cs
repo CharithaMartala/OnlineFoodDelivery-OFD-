@@ -1,6 +1,6 @@
-﻿using UserLogin.Exception;
+﻿using OnlineFoodDelivery.Exception;
 
-namespace UserLogin.Exception
+namespace OnlineFoodDelivery.Exception
 {
     public class UserNotFoundException : ApplicationException
     {

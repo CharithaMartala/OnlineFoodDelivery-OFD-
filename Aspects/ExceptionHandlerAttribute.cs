@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
-using UserLogin.Exception;
+using OnlineFoodDelivery.Exception;
 
-namespace UserLogin.Aspects
+namespace OnlineFoodDelivery.Aspects
 {
     public class ExceptionHandlerAttribute: ExceptionFilterAttribute
     {

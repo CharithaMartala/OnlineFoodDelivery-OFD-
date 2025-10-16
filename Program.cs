@@ -3,23 +3,47 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using UserLogin.Auth;
-using UserLogin.Data;
-using UserLogin.Repository;
-using UserLogin.Service;
+using OnlineFoodDelivery.Auth;
+using OnlineFoodDelivery.Data;
+using OnlineFoodDelivery.Repository;
+using OnlineFoodDelivery.Service;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<UserLoginContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("UserLoginContext") ?? throw new InvalidOperationException("Connection string 'UserLoginContext' not found.")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("UserLoginContext") ?? throw new InvalidOperationException("Connection string 'OnlineFoodDeliveryContext' not found.")));
 
-// Add  user services to the container.
+// Add  user Service to the container.
 
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IAuthRepository, AuthRepository>();
 builder.Services.AddScoped<ITokenService, TokenService>();
+
+// Add Restaurant Services & Repositories
+builder.Services.AddScoped<IRestaurantRepository, RestaurantRepository>();
+builder.Services.AddScoped<IRestaurantService, RestaurantService>();
+
+// Add Location Services & Repositories
+builder.Services.AddScoped<ILocationRepository, LocationRepository>();
+builder.Services.AddScoped<ILocationService, LocationService>();
+
+// Add MenuCategory Services & Repositories
+builder.Services.AddScoped<IMenuCategoryRepository, MenuCategoryRepository>();
+builder.Services.AddScoped<IMenuCategoryService, MenuCategoryService>();
+
+// Add MenuItem Services & Repositories
+builder.Services.AddScoped<IMenuItemRepository, MenuItemRepository>();
+builder.Services.AddScoped<IMenuItemService, MenuItemService>();
+
+
 builder.Services.AddDbContext<UserLoginContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("UserLoginContext")));
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
+        options.JsonSerializerOptions.WriteIndented = true;
+
+    });
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

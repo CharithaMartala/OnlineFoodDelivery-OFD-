@@ -7921,9 +7921,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2438864\\Source\\Repos\\OnlineFoodDelivery-OFD-\\UserLogin.csproj",
-      "projectName": "UserLogin",
-      "projectPath": "C:\\Users\\2438864\\Source\\Repos\\OnlineFoodDelivery-OFD-\\UserLogin.csproj",
+      "projectUniqueName": "C:\\Users\\2438864\\Source\\Repos\\OnlineFoodDelivery-OFD-\\OnlineFoodDelivery.csproj",
+      "projectName": "OnlineFoodDelivery",
+      "projectPath": "C:\\Users\\2438864\\Source\\Repos\\OnlineFoodDelivery-OFD-\\OnlineFoodDelivery.csproj",
       "packagesPath": "C:\\Users\\2438864\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\2438864\\Source\\Repos\\OnlineFoodDelivery-OFD-\\obj\\",
       "projectStyle": "PackageReference",

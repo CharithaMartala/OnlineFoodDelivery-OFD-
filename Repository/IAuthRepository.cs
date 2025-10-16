@@ -1,5 +1,5 @@
-﻿using UserLogin.Model;
-namespace UserLogin.Repository
+﻿using OnlineFoodDelivery.Model;
+namespace OnlineFoodDelivery.Repository
 {
     public interface IAuthRepository
     {

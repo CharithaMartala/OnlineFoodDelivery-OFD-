@@ -1,7 +1,7 @@
-﻿using UserLogin.Model;
+﻿using OnlineFoodDelivery.Model;
 
 
-namespace UserLogin.Service
+namespace OnlineFoodDelivery.Service
 {
     public interface IAuthService
     {

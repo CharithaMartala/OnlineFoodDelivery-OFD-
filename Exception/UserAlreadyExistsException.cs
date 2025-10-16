@@ -1,4 +1,4 @@
-﻿namespace UserLogin.Exception
+﻿namespace OnlineFoodDelivery.Exception
 {
     public class UserAlreadyExistsException: ApplicationException
     {

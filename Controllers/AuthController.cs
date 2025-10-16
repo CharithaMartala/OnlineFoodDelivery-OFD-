@@ -4,14 +4,14 @@ using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Security.Claims;
-using UserLogin.Data;
-using UserLogin.Exception;
-using UserLogin.Model;
-using UserLogin.Repository;
-using UserLogin.Service;
+using OnlineFoodDelivery.Data;
+using OnlineFoodDelivery.Exception;
+using OnlineFoodDelivery.Model;
+using OnlineFoodDelivery.Repository;
+using OnlineFoodDelivery.Service;
 
 
-namespace UserLogin.Controllers
+namespace OnlineFoodDelivery.Controllers
 {
     [Route("api/[controller]")]//attribute routing
     [ApiController]
@@ -55,7 +55,7 @@ namespace UserLogin.Controllers
         [HttpPost("login")]
 
       
-        public IActionResult Login([FromBody] UserLogin.Model.LoginRequest usLog)
+        public IActionResult Login([FromBody] OnlineFoodDelivery.Model.LoginRequest usLog)
         {
             var result = _authService.Login(usLog);
 
